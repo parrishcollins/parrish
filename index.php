@@ -1,8 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-	<link type="text/css" href="CSS/style.css" rel="stylesheet" />
 	<head>
 		<meta charset= UTF-8>
+		<link type="text/css" href="CSS/style.css" rel="stylesheet" />
 		<title>About Parrish</title>
 	</head>
 		<body>
