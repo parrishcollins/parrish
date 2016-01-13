@@ -1,5 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
+	<link type="text/css" href="CSS/style.css" rel="stylesheet" />
 	<head>
 		<meta charset= UTF-8>
 		<title>About Parrish</title>
